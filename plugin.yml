@@ -1,0 +1,4 @@
+name: Autobroadcaster
+version: 0.1
+description: Test autobroadcaster 
+main: Config.Main

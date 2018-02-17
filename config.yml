@@ -1,0 +1,7 @@
+# Autobroadcasts messages! #
+delay: 1
+TestWorld:
+  Autobroadcaster: 
+    Messages:
+      - Test!
+      - Test 2!
